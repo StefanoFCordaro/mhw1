@@ -55,15 +55,7 @@ img{
 span{
     padding:0 20px
 }
-@media (max-width: 768px) {
-    .nav-item a { 
-        display: none; 
-    }
 
-    .nav-item span {
-        padding: 0 10px; 
-    }
-}
 
 
 header{
